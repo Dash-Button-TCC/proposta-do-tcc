@@ -5,3 +5,4 @@ Neste repositório está a proposta do Trabalho de Conclusão de Curso de Edimar
 ## Propostas:
 
 * Electronic Health Record - Sistema de coleta de dados para instituições de saúde
+* Sistema de Monitoramento de Apnéia
